@@ -1,11 +1,19 @@
 # Overview
 
-Mobile Badger is a mobile version of [Drive Badger](https://github.com/drivebadger/drivebadger), meant to exfiltrate data from:
+[Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki) is a mobile version of [Drive Badger](https://github.com/drivebadger/drivebadger), meant to exfiltrate data from:
 
-- mobile devices (all brands and models that connect to the computer using USB, and support either MTP or PTP protocol for transferring data)
+1. Mobile devices (all brands and models that connect to the computer using USB, and support either MTP or PTP protocol for transferring data):
+
+- Android phones, tablets and possibly other devices
+- iOS-based devices (iPhone, iPad)
+- Windows Phone 8/10 (Lumia phones)
+
+2. USB Mass Storage devices:
+
+- mobile devices not supporting MTP/PTP (or configured as mass storage)
 - external drives (eg. pulled from computers, where standard Drive Badger cannot be run, because [all USB ports are damaged](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports)))
 
-This is however an empty repository. Mobile Badger and Drive Badger shares the same code repository, and [this one](https://github.com/drivebadger/mobilebadger/wiki) is made only for separate Wiki.
+This repository is intentionally empty. Mobile Badger and Drive Badger share the same code repository, and this one is made only for [separate Wiki](https://github.com/drivebadger/mobilebadger/wiki).
 
 
 # Further reading
