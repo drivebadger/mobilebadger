@@ -7,11 +7,14 @@
 - Android phones, tablets and possibly other devices
 - iOS-based devices (iPhone, iPad)
 - Windows Phone 8/10 (Lumia phones)
+- BlackBerry OS phones
 
 2. USB Mass Storage devices:
 
-- mobile devices not supporting MTP/PTP (or configured as mass storage)
-- external drives (eg. pulled from computers, where standard Drive Badger cannot be run, because [all USB ports are damaged](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports)))
+- mobile devices not supporting MTP/PTP, eg. BlackBerry Tablet OS (QNX)
+- mobile devices configured as mass storage (older phones, mp3 players etc.)
+- external USB drives
+- internal drives connected via USB bridge (eg. pulled from computers, where standard Drive Badger cannot be run, because [all USB ports are damaged](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports)))
 
 This repository is intentionally empty. Mobile Badger and Drive Badger share the same code repository, and this one is made only for [separate Wiki](https://github.com/drivebadger/mobilebadger/wiki).
 
