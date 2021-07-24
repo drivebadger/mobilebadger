@@ -15,6 +15,7 @@
 - mobile devices configured as mass storage (older phones, mp3 players etc.)
 - external USB drives
 - internal drives connected via USB bridge (eg. pulled from computers, where standard Drive Badger cannot be run, because [all USB ports are damaged](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports)))
+- including [drives encrypted](https://github.com/drivebadger/drivebadger/wiki/Encryption-support) using [Bitlocker](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(Bitlocker)), [LUKS](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(LUKS)), [VeraCrypt](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(VeraCrypt)) or APFS with [Apple FileVault](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(FileVault)), using the same [exclusions and key configuration repositories](https://github.com/drivebadger/drivebadger/wiki/Configuration-repositories), that are used by Drive Badger
 
 This repository is intentionally empty. Mobile Badger and Drive Badger share the same code repository, and this one is made only for [separate Wiki](https://github.com/drivebadger/mobilebadger/wiki).
 
