@@ -26,16 +26,8 @@ Is Drive Badger for me?
 
 - [Why ever use Drive Badger? This can be done manually, or by ad-hoc script.](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(beginner))
 - [Legal and risk-related questions: when using Drive Badger is legal?](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(legal))
-- [Recommended hardware - before you buy anything...](https://github.com/drivebadger/drivebadger/wiki/Recommended-hardware)
-
-Ok, I'm interested, what should I read next?
-
-- [How to start?](https://github.com/drivebadger/drivebadger/wiki/How-to-start%3F)
-- [Installation manual](https://github.com/drivebadger/drivebadger/wiki/Installing) and [ready to use install script](https://github.com/drivebadger/drivebadger/wiki/Install-script).
-- [Understanding the attack phases](https://github.com/drivebadger/drivebadger/wiki/Understanding-the-attack-phases)
-- [Planning the big attack](https://github.com/drivebadger/drivebadger/wiki/Planning-the-big-attack)
-- [How to configure drive encryption keys before attack?](https://github.com/drivebadger/drivebadger/wiki/How-to-configure-encryption-keys%3F)
-- [Troubleshooting](https://github.com/drivebadger/drivebadger/wiki/Troubleshooting)
+- Before you buy anything - recommended hardware for [Drive Badger](https://github.com/drivebadger/drivebadger/wiki/Recommended-hardware) and [Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki/Recommended-hardware)...
+- [Installation manual](https://github.com/drivebadger/mobilebadger/wiki/Installing) and [ready to use install script](https://github.com/drivebadger/mobilebadger/wiki/Install-script).
 
 I want to stay current...
 
