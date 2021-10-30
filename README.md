@@ -24,14 +24,16 @@ This repository is intentionally empty. Mobile Badger and Drive Badger share the
 Is Drive Badger for me?
 
 - [Why ever use Drive Badger? This can be done manually, or by ad-hoc script.](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(beginner))
-- [Legal and risk-related questions: when using Drive Badger is legal?](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(legal))
+- [Legal and risk-related questions: when using Drive Badger is legal?](https://github.com/drivebadger/project/wiki/Legal-questions)
 - Before you buy anything - recommended hardware for [Drive Badger](https://github.com/drivebadger/drivebadger/wiki/Recommended-hardware) and [Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki/Recommended-hardware)...
 - [Installation manual](https://github.com/drivebadger/mobilebadger/wiki/Installing) and [ready to use install script](https://github.com/drivebadger/mobilebadger/wiki/Install-script).
+- [How the data storage is organized](https://github.com/drivebadger/mobilebadger/wiki/Data-storage)
+- [Event display: what is actually happening with your device?](https://github.com/drivebadger/mobilebadger/wiki/Events-display)
 
 I want to stay current...
 
-- [News](https://github.com/drivebadger/drivebadger/wiki/News)
-- [Project roadmap](https://github.com/drivebadger/drivebadger/wiki/Roadmap)
+- [News](https://github.com/drivebadger/project/wiki/News)
+- [Project roadmap](https://github.com/drivebadger/project/wiki/Roadmap)
 
 
 # Legal information
