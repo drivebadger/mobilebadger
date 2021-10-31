@@ -1,6 +1,6 @@
 # Overview
 
-[Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki) is a mobile version of [Drive Badger](https://github.com/drivebadger/drivebadger), meant to exfiltrate data from:
+[Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki) is a subproject of [Drive Badger](https://github.com/drivebadger/drivebadger), dedicated for stealth data exfiltration from:
 
 1. Mobile devices (all brands and models that connect to the computer using USB, and support either MTP or PTP protocol for transferring data):
 
